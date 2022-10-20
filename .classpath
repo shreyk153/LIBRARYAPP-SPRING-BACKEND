@@ -15,11 +15,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry excluding="annotations/" kind="src" path="target/generated-sources"/>
-	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
-		<attributes>
-			<attribute name="maven.pomderived" value="true"/>
-		</attributes>
-	</classpathentry>
 	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
 		<attributes>
 			<attribute name="test" value="true"/>
